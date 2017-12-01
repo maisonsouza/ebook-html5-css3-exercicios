@@ -11,7 +11,7 @@ sans-serif;
 line-height: 1.6;
 }
 
-.lugar{
+article{
 background-color: #FFF;
 border: 1px solid #CCC;
 border-color: #CCC #999 #999 #CCC;
@@ -19,12 +19,12 @@ margin-bottom: 20px;
 padding: 10px;
 }
 
-.lugar h2 {
+article h2 {
 border-bottom: 1px dashed #7E9F19;
 margin: 0;
 }
 
-.lugar a {
+article a {
 color: #2C88A7;
 font-weight: bold;
 }
@@ -39,7 +39,7 @@ background-color: #7E9F19;
 color: #FFF;
 }
 
-.lugar img {
+article img {
 width: 200px;
 height: 120px;
 border: 1px solid #7E9F19;
